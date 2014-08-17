@@ -1,4 +1,4 @@
-<!---Random comment "Changed" Hotfix--->
+<!---Random comment :wq--->
 
 - git config --global core.editor "vim"
 - git help
