@@ -1,5 +1,5 @@
 <!---Random comment "Added comment 34"-->
-<!--My boss -->
+<!--My boss - need to make a conflict-->
 
 - git config --global core.editor "vim"
 - git help
