@@ -1,6 +1,5 @@
-<!---Random comment "Added comment 34"--->
-
-I am gonna enjoy GI - Comment 5T
+<!---Random comment "Added comment 34"-->
+<!--My boss -->
 
 - git config --global core.editor "vim"
 - git help
