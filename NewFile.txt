@@ -1,5 +1,7 @@
 <!---Random comment "Added comment 34"--->
 
+I am gonna enjoy GIT
+
 - git config --global core.editor "vim"
 - git help
 - clear (Windows)
