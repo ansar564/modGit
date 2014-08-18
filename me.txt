@@ -1,1 +1,5 @@
+
+making a new change to make a conflict again:wq
+::
+
 Hi this is to test me and my knowledge in GIT - changing to make a conflict
