@@ -1,5 +1,5 @@
 <!---Random comment "Added comment 34"-->
-<!--My boss - Changing this to @@@@:@@@@@@@@@@-->
+<!--Total change is going to happen here::wq->
 <!--My boss Need to definitely save some time by conflicting-->
 
 - git config --global core.editor "vim"
