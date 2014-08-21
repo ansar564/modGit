@@ -1,0 +1,9 @@
+Host github.com
+	HostNamegithub.com
+	User git
+	IdentityFile /Ansar.pub
+
+Host github.com
+	HostName github.com
+	User git
+	IdentityFile /Ansar-Yahoo.pub

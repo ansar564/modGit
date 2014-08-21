@@ -1,0 +1,12 @@
+
+<--! This my commment -->
+
+<html>
+
+  <title>MyGITExperiment</title>
+
+	<body>
+		<p> Hi all, it's always fun to code... </p>
+	</body>
+
+</html>
